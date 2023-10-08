@@ -47,7 +47,6 @@ download_file_if_it_doesnt_exist(log.c https://raw.githubusercontent.com/xtreme8
 download_file_if_it_doesnt_exist(hashtable.c https://raw.githubusercontent.com/goldsborough/hashtable/master/hashtable.c)
 download_file_if_it_doesnt_exist(hashtable.h https://raw.githubusercontent.com/goldsborough/hashtable/master/hashtable.h)
 download_file_if_it_doesnt_exist(../deps/libdeflate.h https://raw.githubusercontent.com/ebiggers/libdeflate/master/libdeflate.h)
-download_file_if_it_doesnt_exist(../bsresources.zip http://aos.party/bsresources.zip)
 download_file_if_it_doesnt_exist(microui.c https://raw.githubusercontent.com/rxi/microui/master/src/microui.c)
 download_file_if_it_doesnt_exist(microui.h https://raw.githubusercontent.com/rxi/microui/master/src/microui.h)
 
